@@ -34,7 +34,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 gem 'devise'
-gem 'bootstrap', '~> 4.1.1'
+gem "bootstrap", ">= 4.3.1"
 gem 'jquery-rails'
 gem "font-awesome-rails"
 gem 'bootsnap', '~> 1.3.0', require: false
