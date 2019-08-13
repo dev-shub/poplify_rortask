@@ -1,4 +1,4 @@
-# README
+# BLOGGER APP (POPLIFY TASK)
 
 This project is about a simple blogger app and contains different functionalities like:
 

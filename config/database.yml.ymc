@@ -6,16 +6,16 @@ default: &default
 development:
   <<: *default
   database: development_poplify_rortask
-  username: devshub
-  password: qwerty12345
+  username: my_username
+  password: secret_password
   host: localhost
   port: 5432
 
 test:
   <<: *default
   database: test_poplify_rortask
-  username: devshub
-  password: qwerty12345
+  username: my_username
+  password: secret_password
   host: localhost
   port: 5432
 
